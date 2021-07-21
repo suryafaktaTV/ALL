@@ -33,6 +33,8 @@ http://gpc.my.id/vidio/gtv.m3u8
 https://goldenlivektv.com/Kang.Surya/Channel_Gtvmetube.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_net_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="net-tv" group-title="Lokal",net-tv
 http://gpc.my.id/vidio/net-tv.m3u8
+#EXTINF:-1  group-title="Lokal" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg",RTV
+http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/TVOne_1.png" tvg-id="BathokGpc" tvg-name="Tv-One" group-title="Lokal",Tv-One
 http://gpc.my.id/ytlive/tvone.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trans7_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="trans7" group-title="Lokal",trans7
@@ -67,8 +69,6 @@ http://gpc.my.id/usee/tawaftv.m3u8
 http://gpc.my.id/vidio/ochannel.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_uchannel_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="uchannel_USEE" group-title="Lokal",uchannel_USEE
 http://gpc.my.id/usee/uchannel.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Yf8fqy8/rtv.png" group-title="Lokal",RTV
-http://210.210.155.35/session/edab62e0-e258-11eb-bc1c-c81f66f89318/qwr9ew/s/s12/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RTV
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="rodjatv_USEE" group-title="Lokal",rodjatv_USEE
 http://gpc.my.id/usee/rodjatv.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/tKzO5NAoTVDSmg_f4ECrJvkS-Y2dXlHWmYAGvh1qd-UK_XTd_EUV_EjfANk9AnbsLjCuKpzBenL-o99SLSJo-IKYLdYLy1HBstNAyWif4XZO6B-hXmoK3ajiS99c_tChbpayuYS6SWhh_Q" tvg-id="BathokGpc" tvg-name="ajwa-tv" group-title="Lokal",ajwa-tv
