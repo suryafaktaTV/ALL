@@ -67,7 +67,7 @@ http://gpc.my.id/usee/tawaftv.m3u8
 http://gpc.my.id/vidio/ochannel.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_uchannel_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="uchannel_USEE" group-title="Lokal",uchannel_USEE
 http://gpc.my.id/usee/uchannel.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rtv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="rtv" group-title="Lokal",rtv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Yf8fqy8/rtv.png" group-title="Lokal",RTV
 http://210.210.155.35/session/edab62e0-e258-11eb-bc1c-c81f66f89318/qwr9ew/s/s12/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RTV
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="rodjatv_USEE" group-title="Lokal",rodjatv_USEE
 http://gpc.my.id/usee/rodjatv.m3u8
