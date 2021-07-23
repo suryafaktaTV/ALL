@@ -135,8 +135,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",ESPN (720p)
 http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",ESPN 2 (720p)
-http://164.68.124.111/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" tvg-id="BathokGpc" tvg-name="champion-tv-3" group-title="Sport",champion-tv-3
 http://gpc.my.id/vidio/champion-tv-3.m3u8
 #EXTINF:-1 tvg-logo="https://imgmove.com//public/img/temp_img_web/Lre19gF109xOe02uXfr2.png" tvg-id="BathokGpc" tvg-name="ZQ-Sport" group-title="Sport",ZQ-Sport
