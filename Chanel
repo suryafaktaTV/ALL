@@ -130,9 +130,9 @@ https://drive.google.com/uc?id=1YjVAVbTBHqRHilCJ1iHi0dRulz39r8fP
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" tvg-id="BathokGpc" tvg-name="TVRI-SPORT" group-title="Sport",TVRI-SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_small.png?v=2" tvg-id="BathokGpc" tvg-name="champion-tv-1" group-title="Sport",champion-tv-1
-http://gpc.my.id/vidio/champion-tv-1.m3u8
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ2_small.png?v=2" tvg-id="BathokGpc" tvg-name="champion-tv-2" group-title="Sport",champion-tv-2
-http://gpc.my.id/vidio/champion-tv-2.m3u8
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",ESPN (720p)
 http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",ESPN 2 (720p)
