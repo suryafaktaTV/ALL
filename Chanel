@@ -12,7 +12,7 @@ http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/chunklist_w769002241_b1
 http://212.224.98.207:2200/EX/bein8hd-ar/index.m3u8?token=linksports
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="tokyo-olympiade",beinPremium2 HD
-https://cutt.ly/Am5Ha1k
+http://212.224.98.207:2200/EX/bein9hd-ar/index.m3u8?token=linksports
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="tokyo-olympiade",beinSport1 HD
 http://212.224.98.207:2200/EX/bein1hd-ar/index.m3u8?token= 
