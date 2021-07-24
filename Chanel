@@ -488,7 +488,9 @@ http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", Nick Junior
 http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
- 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", Nick Junior_2
+https://cdn10jtedge.useetv.com/dass/130/nickjr_dash/segment_ctvideo_cfm4s_ridp0va0br1280000_cs393446797200_w308481139_mpd
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", Nickelodeon
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 
