@@ -65,7 +65,7 @@ http://gpc.my.id/vidio/mnc.m3u8
 #EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/MNCTV_1.png" tvg-id="BathokGpc" tvg-name="mnc" group-title="Lokal",mnc_Mtube
 https://goldenlivektv.com/Kang.Surya/Channel_Mnctvmetube.m3u8
 #EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/RCTI_1.png" tvg-id="BathokGpc" tvg-name="rcti" group-title="Lokal",rcti(vision+)
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+https://s.id/suryaTV-Rctivision
 #EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/RCTI_1.png" tvg-id="BathokGpc" tvg-name="rcti" group-title="Lokal",rcti HD
 http://goldenlivektv.com/Comot_Lagi_Bae/Rcti_channel_ktv.m3u8
 #EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/RCTI_1.png" tvg-id="BathokGpc" tvg-name="rcti" group-title="Lokal",rcti_Mtube
