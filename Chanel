@@ -58,6 +58,8 @@ http://gpc.my.id/vidio/tvri.m3u8
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indosiar_small1.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="indosiar" group-title="Lokal",indosiar
 http://gpc.my.id/vidio/indosiar.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indosiar_small1.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="indosiar" group-title="Lokal",indosiar HD
+https://s.id/suryaTV-indosiarvision
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_transtv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="trans-tv" group-title="Lokal",trans-tv
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/MNCTV_1.png" tvg-id="BathokGpc" tvg-name="mnc" group-title="Lokal",mnc
@@ -72,6 +74,8 @@ http://goldenlivektv.com/Comot_Lagi_Bae/Rcti_channel_ktv.m3u8
 https://goldenlivektv.com/Kang.Surya/Channel_Rctimetube.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_small1.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="sctv" group-title="Lokal",sctv
 http://gpc.my.id/vidio/sctv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_small1.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="sctv" group-title="Lokal",sctv HD
+https://s.id/suryaTV-sctvision
 #EXTINF:-1 tvg-logo="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/32ea2fa75b4385a5fc2d" tvg-id="BathokGpc" tvg-name="gtv" group-title="Lokal",gtv
 http://gpc.my.id/vidio/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/32ea2fa75b4385a5fc2d" tvg-id="BathokGpc" tvg-name="gtv" group-title="Lokal",gtv_Mtube
