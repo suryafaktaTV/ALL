@@ -508,32 +508,32 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=davinci&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qPsr3S6/Horee-Logo.jpg" group-title="Kids",Horee 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=horee&bandwidth=default&sync=0
 
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/MTvJvVP3/Disney-Channel-Logo.jpg" group-title="Kids",Disney Channel 
+#EXTINF:-1,  tvg-logo="https://i.postimg.cc/MTvJvVP3/Disney-Channel-Logo.jpg" group-title="Kids",Disney Channel_
 http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/sXv1sBps/Dsiney-Junior-Logo.jpg" group-title="Kids",Disney Junior1
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/sXv1sBps/Dsiney-Junior-Logo.jpg" group-title="Kids",Disney Junior1_
 http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/JhY9VtrN/Disney-XD-Logo.jpg" group-title="Kids",Disney XD 
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/JhY9VtrN/Disney-XD-Logo.jpg" group-title="Kids",Disney XD_ 
 http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20233
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/sXv1sBps/Dsiney-Junior-Logo.jpg" group-title="Kids",Disney Junior 2
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/sXv1sBps/Dsiney-Junior-Logo.jpg" group-title="Kids",Disney Junior 2_
 http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-name="Disney Channel" tvg-logo="https://i.ibb.co/D1cGfRm/gcj.png" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-name="Disney Channel" tvg-logo="https://i.ibb.co/D1cGfRm/gcj.png" group-title="Kids",Disney Channel_
 https://link.zozotv.xyz:443/Freemium1/unlimited99/130
-#EXTINF:-1 tvg-id="DisneyJunior.MACAN" tvg-name="Disney Junior" tvg-logo="https://i.ibb.co/hghFSVF/CAzX.png" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.MACAN" tvg-name="Disney Junior" tvg-logo="https://i.ibb.co/hghFSVF/CAzX.png" group-title="Kids",Disney Junior_
 https://link.zozotv.xyz:443/Freemium1/unlimited99/131
-#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" group-title="Kids",Cartoon Network_
 https://link.zozotv.xyz:443/Freemium1/unlimited99/132
-#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/T8yPnjM/RDFHDCFG.png" group-title="Kids",Dreamworks
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/T8yPnjM/RDFHDCFG.png" group-title="Kids",Dreamworks_
 https://link.zozotv.xyz:443/Freemium1/unlimited99/134
-#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/YbKLSR1/gtfj.png" group-title="Kids",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/YbKLSR1/gtfj.png" group-title="Kids",Boomerang_
 https://link.zozotv.xyz:443/Freemium1/unlimited99/135
-#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="Kids",Nickelodeon_
 https://link.zozotv.xyz:443/Freemium1/unlimited99/136
-#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="Kids",Nick Jr
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="Kids",Nick Jr_
 https://link.zozotv.xyz:443/Freemium1/unlimited99/137
-#EXTINF:-1 tvg-id="" tvg-name="Zoomoo" tvg-logo="https://i.ibb.co/pRvnw3k/OIJ.png" group-title="Kids",Zoomoo
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo" tvg-logo="https://i.ibb.co/pRvnw3k/OIJ.png" group-title="Kids",Zoomoo_
 https://link.zozotv.xyz:443/Freemium1/unlimited99/139
-#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://i.ibb.co/37ngmzn/bbbbbbbb.png" group-title="Kids",BabyFirst
+#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://i.ibb.co/37ngmzn/bbbbbbbb.png" group-title="Kids",BabyFirst_
 https://link.zozotv.xyz:443/Freemium1/unlimited99/141
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="Kids & Knowledge",suryaTV_081235393956
