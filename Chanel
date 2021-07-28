@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-tittle:"olympic-VIDIO", ch 1
-https://production-drm-vidio-com-event-15.akamaized.net/out/v1/e6cf9fcf86394f88925695ccd7315bcd/index_video_9_0_9376458753.mp4?m=1626351840
-
-#EXTINF:-1 group-tittle:"olympic-VIDIO", ch 2
-https://production-drm-vidio-com-event-11.akamaized.net/out/v1/50c86e01981e4d118fb45a33b3c4a413/index_video_9_0_8322111524.mp4?m=1626345580
-
-#EXTINF:-1 group-tittle:"olympic-VIDIO", ch 3
-https://production-drm-vidio-com-event-9.akamaized.net/out/v1/641424e78666407e8186ecaa30363596/index_video_3_0_7749793973.mp4?m=1597141845
-
-#EXTINF:-1 group-tittle:"olympic-VIDIO", ch 4
-https://production-drm-vidio-com-event-5.akamaized.net/out/v1/b433318b703240799f5940024d113bc6/index_video_27_0_40834151361.mp4?m=1597141611
-
-#EXTINF:-1 group-tittle:"olympic-VIDIO", ch 5
-https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index_video_25_0_8603624416.mp4?m=1597141681
-
 #EXTINF:-1 group-title="SPORTS OLYMPIC" tvg-name="OLYMPIC 1" tvg-logo="https://aptvid.online/olympic/download.png" ,CH OLYMPIC 1
 https://link.zozotv.xyz:443/Freemium1/unlimited99/318
 #EXTINF:-1 group-title="SPORTS OLYMPIC" tvg-name="OLYMPIC 2" tvg-logo="https://aptvid.online/olympic/download.png" ,CH OLYMPIC 2
