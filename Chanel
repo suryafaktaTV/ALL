@@ -1,37 +1,39 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="OLY1" tvg-name="OLYMPIC AIS  1" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  1
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="OLY2" tvg-name="OLYMPIC AIS  2" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  2
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="OLY3" tvg-name="OLYMPIC 3" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  3
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel3/playlist.m3u8
-#EXTINF:-1 tvg-id="OLY4" tvg-name="OLYMPIC AIS  4" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  4
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel4/playlist.m3u8
-#EXTINF:-1 tvg-id="OLY5" tvg-name="OLYMPIC AIS  5" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  5
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel5/playlist.m3u8
-#EXTINF:-1 tvg-id="OLY6" tvg-name="OLYMPIC AIS  6" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  6
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel6/playlist.m3u8
-#EXTINF:-1 tvg-id="OLY7" tvg-name="OLYMPIC AIS  7" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  7
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel7/playlist.m3u8
-#EXTINF:-1 tvg-id="OLY8" tvg-name="OLYMPIC AIS  8" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  8
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel8/playlist.m3u8
-#EXTINF:-1 tvg-id="OLY9" tvg-name="OLYMPIC AIS  9" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  9
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel9/playlist.m3u8
-#EXTINF:-1 tvg-id="OLY10" tvg-name="OLYMPIC AIS  10" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  10
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel10/playlist.m3u8
-#EXTINF:-1 tvg-id="OLY11" tvg-name="OLYMPIC AIS  11" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  11
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel11/playlist.m3u8
-#EXTINF:-1 tvg-id="OLY12" tvg-name="OLYMPIC AIS  12" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  12
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel12/playlist.m3u8
-#EXTINF:-1 tvg-id="OLY13" tvg-name="OLYMPIC AIS  13" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  13
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel13/playlist.m3u8
-#EXTINF:-1 tvg-id="OLY14" tvg-name="OLYMPIC AIS  14" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  14
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel14/playlist.m3u8
-#EXTINF:-1 tvg-id="OLY15" tvg-name="OLYMPIC AIS  15" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  15
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel15/playlist.m3u8
-#EXTINF:-1 tvg-id="OLY16" tvg-name="OLYMPIC AIS  16" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Sports: Tokyo 2020 Olympics",OLYMPIC AIS  16
-http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel16/playlist.m3u8
+#EXTINF:-1 group-title="beinOlympic",Bein_Sport premium_3_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/1563
+#EXTINF:-1 group-title="beinOlympic",Bein_Sport premium_2_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/1564
+#EXTINF:-1 group-title="beinOlympic",Bein_Sport premium_1_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/1565
+#EXTINF:-1 group-title="beinOlympic",Bein_Sport_7_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/1566
+#EXTINF:-1 group-title="beinOlympic",Bein_Sport_6_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/1567
+#EXTINF:-1 group-title="beinOlympic",Bein_Sport_5_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/1568
+#EXTINF:-1 group-title="beinOlympic",Bein_Sport_4_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/1569
+#EXTINF:-1 group-title="beinOlympic",Bein_Sport_3_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/1570
+#EXTINF:-1 group-title="beinOlympic",Bein_Sport_2_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/1571
+#EXTINF:-1 group-title="beinOlympic",Bein_Sport_1_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/1572
+#EXTINF:-1 group-title="beinOlympic",Bein_Sport english _1_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/34002
+#EXTINF:-1 group-title="beinOlympic",Bein_Sport english_2_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/34003
+#EXTINF:-1 group-title="beinOlympic",Bein_Sport english_3_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/34004
+#EXTINF:-1 group-title="beinOlympic",BEIN FRENCH 1_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/38032
+#EXTINF:-1 group-title="beinOlympic",BEIN FRENCH 2_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/38033
+#EXTINF:-1 group-title="beinOlympic",NBA_SD
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/38034
+#EXTINF:-1 group-title="beinOlympic",Bein Sport Extra SD1
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/40286
 
 #EXTINF:-1 group-title="Sport",ASTRO Arena HD
 http://iptv.tvmalaysia.cc:80/139664/139664/6707
