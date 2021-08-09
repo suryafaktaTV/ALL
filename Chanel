@@ -69,15 +69,24 @@ http://sawaiptv.vip:80/Darkiptv/Abdelhady/38034
 #EXTINF:-1 group-title="beinOlympic",Bein Sport Extra SD1
 http://sawaiptv.vip:80/Darkiptv/Abdelhady/40286
 
-#EXTINF:-1 group-title="Sport",ASTRO Arena HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RzHWDXt/Astro-Supersport.png" group-title="Sport",ASTRO SUPERSPORT 1
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq6wq0hx/as2.png" group-title="Sport",ASTRO SUPERSPORT 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRY49xLf/as3.png" group-title="Sport",ASTRO SUPERSPORT 3
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wT8ppLTv/as4.png" group-title="Sport",ASTRO SUPERSPORT 4
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport",ASTRO Arena_HD
 http://iptv.tvmalaysia.cc:80/139664/139664/6707
-#EXTINF:-1 group-title="Sport",ASTRO SUPERSPORT HD
+#EXTINF:-1 group-title="Sport",ASTRO SUPERSPORT_HD
 http://iptv.tvmalaysia.cc:80/139664/139664/6708
-#EXTINF:-1 group-title="Sport",ASTRO SUPERSPORT 2 HD
+#EXTINF:-1 group-title="Sport",ASTRO SUPERSPORT 2_HD
 http://iptv.tvmalaysia.cc:80/139664/139664/6710
-#EXTINF:-1 group-title="Sport",ASTRO SUPERSPORT 3 HD
+#EXTINF:-1 group-title="Sport",ASTRO SUPERSPORT 3_HD
 http://iptv.tvmalaysia.cc:80/139664/139664/6711
-#EXTINF:-1 group-title="Sport",ASTRO SUPERSPORT 4 HD
+#EXTINF:-1 group-title="Sport",ASTRO SUPERSPORT 4_HD
 http://iptv.tvmalaysia.cc:80/139664/139664/6712
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="Lokal",suryaTV_081235393956
