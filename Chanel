@@ -545,9 +545,51 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/137
 https://link.zozotv.xyz:443/Freemium1/unlimited99/139
 #EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://i.ibb.co/37ngmzn/bbbbbbbb.png" group-title="Kids",BabyFirst_
 https://link.zozotv.xyz:443/Freemium1/unlimited99/141
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="Kids & Knowledge",suryaTV_081235393956
 https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
+
+#EXTINF:-1 group-title="kids-OTT",ANIMAX 
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 group-title="kids-OTT",ANIPLUS 
+http://210.210.155.35/session/317acd0a-faad-11eb-9d93-8dea9175458a/dr9445/h/h02/index.m3u8
+#EXTINF:-1 group-title="kids-OTT",Baby first
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
+#EXTINF:-1 group-title="kids-OTT",BabyTV
+https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+#EXTINF:-1 group-title="kids-OTT",Biznet kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w2097723978_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 group-title="kids-OTT",Boomerang
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+#EXTINF:-1 group-title="kids-OTT",Cartoon network
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#EXTINF:-1 group-title="kids-OTT",Cbeebies
+https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+#EXTINF:-1 group-title="kids-OTT",Davinci kids
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=davinci&bandwidth=default&sync=0
+#EXTINF:-1 group-title="kids-OTT",Disney channel
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+#EXTINF:-1 group-title="kids-OTT",Disney jr
+https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
+#EXTINF:-1 group-title="kids-OTT",Dunia Anak
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=duniaanak&bandwidth=default&sync=0
+#EXTINF:-1 group-title="kids-OTT",Hip-hip horee
+https://gpc.my.id/vidio/hip-hip-horee.m3u8
+#EXTINF:-1 group-title="kids-OTT",Horee
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=horee&bandwidth=default&sync=0
+#EXTINF:-1 group-title="kids-OTT",Kids-channel
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+#EXTINF:-1 group-title="kids-OTT",Miaomi
+https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+#EXTINF:-1 group-title="kids-OTT",Mkidz
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 group-title="kids-OTT",Mkidz usee
+https://cdn10jtedge.useetv.com/joss/134/mykids/chunklist_w683567986_b494100_sleng.m3u8?enc=K3Fv1ImFAC2iEgWWX6ZrFw&uid=&exp=1628699057
+#EXTINF:-1 group-title="kids-OTT",Nickelodeon
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+#EXTINF:-1 group-title="kids-OTT",Spacetoon
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
+#EXTINF:-1 group-title="kids-OTT",Zoomoo
+https://gpc.my.id/vidio/zoomoo.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="PENGETAHUAN", NAT GEO WILD HD (ID) 
 http://iptv.tvmalaysia.cc/932633/932633/7081
