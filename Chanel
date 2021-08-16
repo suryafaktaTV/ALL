@@ -1,40 +1,71 @@
 #EXTM3U
 
-
-#EXTINF:-1 group-title="beinsport",Bein_Sport premium_3_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1563
-#EXTINF:-1 group-title="beinsport",Bein_Sport premium_2_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1564
-#EXTINF:-1 group-title="beinsport",Bein_Sport premium_1_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1565
-#EXTINF:-1 group-title="beinsport",Bein_Sport_7_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1566
-#EXTINF:-1 group-title="beinsport",Bein_Sport_6_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1567
-#EXTINF:-1 group-title="beinsport",Bein_Sport_5_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1568
-#EXTINF:-1 group-title="beinsport",Bein_Sport_4_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1569
-#EXTINF:-1 group-title="beinsport",Bein_Sport_3_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1570
-#EXTINF:-1 group-title="beinsport",Bein_Sport_2_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1571
-#EXTINF:-1 group-title="beinsport",Bein_Sport_1_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1572
-#EXTINF:-1 group-title="beinsport",Bein_Sport english _1_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/34002
-#EXTINF:-1 group-title="beinsport",Bein_Sport english_2_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/34003
-#EXTINF:-1 group-title="beinsport",Bein_Sport english_3_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/34004
-#EXTINF:-1 group-title="beinsport",BEIN FRENCH 1_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/38032
-#EXTINF:-1 group-title="beinsport",BEIN FRENCH 2_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/38033
-#EXTINF:-1 group-title="beinsport",NBA_SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/38034
-#EXTINF:-1 group-title="beinsport",Bein Sport Extra SD1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/40286
+#EXTINF:-1 group-title="bein-sport",AR: beIN Sports 1
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/459
+#EXTINF:-1 group-title="bein-sport",AR: beIN Sports 2
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/450
+#EXTINF:-1 group-title="bein-sport",AR: beIN Sports 3
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/451
+#EXTINF:-1 group-title="bein-sport",AR: beIN Sports 1
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/452
+#EXTINF:-1 group-title="bein-sport",AR: beIN Sports 2
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/453
+#EXTINF:-1 group-title="bein-sport",AR: beIN Sports 3
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/454
+#EXTINF:-1 group-title="bein-sport",AR: beIN Sports 4
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/455
+#EXTINF:-1 group-title="bein-sport",AR: beIN Sports 5
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/456
+#EXTINF:-1 group-title="bein-sport",AR: beIN Sports 6
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/457
+#EXTINF:-1 group-title="bein-sport",AR: beIN Sports 7
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/458
+#EXTINF:-1 group-title="bein-sport",AR: beIN SPORTS HD1 PR
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/46
+#EXTINF:-1 group-title="bein-sport",AR: beIN SPORTS HD2 PR
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/47
+#EXTINF:-1 group-title="bein-sport",AR: beIN SPORTS HD3 PR
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/48
+#EXTINF:-1 group-title="bein-sport",AR: beIN SPORTS HD1
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/49
+#EXTINF:-1 group-title="bein-sport",AR: beIN SPORTS HD2
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/50
+#EXTINF:-1 group-title="bein-sport",AR: beIN SPORTS HD3
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/51
+#EXTINF:-1 group-title="bein-sport",AR: beIN SPORTS HD4
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/52
+#EXTINF:-1 group-title="bein-sport",AR: beIN SPORTS HD5
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/53
+#EXTINF:-1 group-title="bein-sport",AR: beIN SPORTS HD6
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/54
+#EXTINF:-1 group-title="bein-sport",AR: beIN SPORTS HD7
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/55
+#EXTINF:-1 group-title="bein-sport",AR: beIN SPORTS HD11
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/3001
+#EXTINF:-1 group-title="bein-sport",AR: beIN SPORTS HD12
+#EXTVLCOPT:http-user-agent=pax9znnqiij3sslejghvb10zpqituy
+http://kaicerfree.ddns.net:8080/hmGraJvSlW/tCDdA9Ns8Y/3002
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RzHWDXt/Astro-Supersport.png" group-title="Sport",ASTRO SUPERSPORT 1
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
