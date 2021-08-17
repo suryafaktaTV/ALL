@@ -107,15 +107,15 @@ http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport",ASTRO Arena_HD
-http://iptv.tvmalaysia.cc:80/139664/139664/6707
+http://iptv.tvmalaysia.cc:80/932633/932633/6707
 #EXTINF:-1 group-title="Sport",ASTRO SUPERSPORT_HD
-http://iptv.tvmalaysia.cc:80/139664/139664/6708
+http://iptv.tvmalaysia.cc:80/932633/932633/6708
 #EXTINF:-1 group-title="Sport",ASTRO SUPERSPORT 2_HD
-http://iptv.tvmalaysia.cc:80/139664/139664/6710
+http://iptv.tvmalaysia.cc:80/932633/932633/6710
 #EXTINF:-1 group-title="Sport",ASTRO SUPERSPORT 3_HD
-http://iptv.tvmalaysia.cc:80/139664/139664/6711
+http://iptv.tvmalaysia.cc:80/932633/932633/6711
 #EXTINF:-1 group-title="Sport",ASTRO SUPERSPORT 4_HD
-http://iptv.tvmalaysia.cc:80/139664/139664/6712
+http://iptv.tvmalaysia.cc:80/932633/932633/6712
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3Tvyxbv/bts1.png" group-title="Sport",BT SPORT 1
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
