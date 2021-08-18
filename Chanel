@@ -267,6 +267,86 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="FoxSport3" group-title="Sport",FoxSport3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3SRqg6H/20210818-085118.jpg" group-title="OLAHRAGA", SPORT TV 1 HD
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+Playlist ini punya : https://freemium.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ggqdyN9/20210818-085232.jpg" group-title="OLAHRAGA", SPORT TV 2 HD
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+Playlist ini punya : https://freemium.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr13pTk/20210818-085303.jpg" group-title="OLAHRAGA", SPORT TV 3 HD
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+Playlist ini punya : https://freemium.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L1rSkBx/20210818-085357.jpg" group-title="OLAHRAGA", SPORT TV 4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+Playlist ini punya : https://freemium.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zGGnLWC/20210818-085438.jpg" group-title="OLAHRAGA", SPORT TV 5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+Playlist ini punya : https://freemium.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8AmqhQtuqteuOfGtWZy6fELMxklN0qjwRCw&usqp=CAU" group-title="OLAHRAGA", STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+Playlist ini punya : https://freemium.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="truepremierfootballhd1.th" tvg-name="truepremierfootballhd1" tvg-logo="https://i.ibb.co/7KGw6j4/20210818-093217.jpg" group-title="OLAHRAGA", true PREMIER FOOTBALL HD 1 (720)
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+Playlist ini punya : https://freemium.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="truepremierfootballhd1.th" tvg-name="truepremierfootballhd1" tvg-logo="https://i.ibb.co/7KGw6j4/20210818-093217.jpg" group-title="OLAHRAGA", true PREMIER FOOTBALL HD 1 (480)
+https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
+Playlist ini punya : https://freemium.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="truepremierfootballhd2.th" tvg-name="truepremierfootballhd2" tvg-logo="https://i.ibb.co/wJNNVR4/20210818-093325.jpg" group-title="OLAHRAGA", true PREMIER FOOTBALL HD 2 (720)
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+Playlist ini punya : https://freemium.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="truepremierfootballhd2.th" tvg-name="truepremierfootballhd2" tvg-logo="https://i.ibb.co/wJNNVR4/20210818-093325.jpg" group-title="OLAHRAGA", true PREMIER FOOTBALL HD 2 (480)
+https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
+Playlist ini punya : https://freemium.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="truepremierfootballhd3.th" tvg-name="truepremierfootballhd3" tvg-logo="https://i.ibb.co/j4PfYvS/20210818-093418.jpg" group-title="OLAHRAGA", true PREMIER FOOTBALL HD 3 (720)
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+Playlist ini punya : https://freemium.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="truepremierfootballhd3.th" tvg-name="truepremierfootballhd3" tvg-logo="https://i.ibb.co/j4PfYvS/20210818-093418.jpg" group-title="OLAHRAGA", true PREMIER FOOTBALL HD 3 (480)
+https://www.livedoomovie.com/02_PremierHD3_480p/chunklist.m3u8
+Playlist ini punya : https://freemium.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="truepremierfootballhd4.th" tvg-name="truepremierfootballhd4" tvg-logo="https://i.ibb.co/2MLQ1WV/20210818-093458.jpg" group-title="OLAHRAGA", true PREMIER FOOTBALL HD 4 (720)
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+Playlist ini punya : https://freemium.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="truepremierfootballhd4.th" tvg-name="truepremierfootballhd4" tvg-logo="https://i.ibb.co/2MLQ1WV/20210818-093458.jpg" group-title="OLAHRAGA", true PREMIER FOOTBALL HD 4 (480)
+https://www.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8
+Playlist ini punya : https://freemium.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="truepremierfootballhd5.th" tvg-name="truepremierfootballhd5" tvg-logo="https://i.ibb.co/dJVBCZN/20210818-093539.jpg" group-title="OLAHRAGA", true PREMIER FOOTBALL HD 5 (720)
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9G4RZHl4vHiz1iTCeIaQC_7_F7OvSZ_uCJQ&usqp=CAU" group-title="OLAHRAGA", TVRI SPORT HD
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+Playlist ini punya : https://freemium.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+
 #EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BeIN Sport 1 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="SHAREeXT@Sports",BeIN Sport 1 ID
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/728
 #EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BeIN Sport 2 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="SHAREeXT@Sports",BeIN Sport 2 ID
