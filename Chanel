@@ -506,8 +506,6 @@ http://gpc.my.id/usee/pramborstv.m3u8
 http://gpc.my.id/vidio/musica.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="chinesedrama_USEE" group-title="Entertainment",chinesedrama_USEE
 http://gpc.my.id/usee/chinesedrama.m3u8
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/molafree.png" tvg-id="BathokGpc" tvg-name="mola-tv-free" group-title="Entertainment",mola-tv-free
-http://gpc.my.id/vidio/mola-tv-free.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cctv4_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cctv4_USEE" group-title="Entertainment",cctv4_USEE
 http://gpc.my.id/usee/cctv4.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_outdoor_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="outdoor_USEE" group-title="Entertainment",outdoor_USEE
