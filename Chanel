@@ -712,6 +712,8 @@ http://gpc.my.id/vidio/tv-edukasi.m3u8
 http://gpc.my.id/vidio/love-nature.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cgtndocumentary_USEE" group-title="Kids & Knowledge",cgtndocumentary_USEE
 http://gpc.my.id/usee/cgtndocumentary.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="OLAHRAGA", Usee Sports 1
+http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
 
 #EXTINF:0 group-title="Movies",FoxMovies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
