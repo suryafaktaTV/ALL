@@ -423,7 +423,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="USEETV", Dunia Lain 
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=dunialain
 
 #EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="USEETV", Blue ant entertainmet
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueant&bandwidth=default&sync=0
