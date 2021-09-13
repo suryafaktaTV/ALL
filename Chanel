@@ -16,6 +16,8 @@ https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-
 http://syarman.hexat.com/INDONESIA%20HD/gtv.m3u8
 #EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/MNCTV_1.png" tvg-id="BathokGpc" tvg-name="mnc" group-title="INDONESIA HD",mnc_Mtube 
 https://goldenlivektv.com/Kang.Surya/Channel_Mnctvmetube.m3u8 
+#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/RCTI_1.png" tvg-id="BathokGpc" tvg-name="rcti" group-title="INDONESIA HD",rcti_Mtube 
+https://goldenlivektv.com/Kang.Surya/Channel_Rctimetube.m3u8
 #EXTINF:-1 tvg-id="tvone" tvg-name="tvone" tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png" group-title="INDONESIA HD", TV ONE (vision+)
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
 #EXTINF:-1 tvg-id="inews" tvg-name="inews" tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="INDONESIA HD", INEWS (vision+)
